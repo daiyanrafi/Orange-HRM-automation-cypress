@@ -2,7 +2,7 @@
 
  - [Full Test Execution Video (Google Drive Link)](https://drive.google.com/file/d/1Ar1leXhpIaetda1VGdWhpy8bSjUNSNRs/view?usp=sharing)
 
-![Orange-cypress](https://github.com/daiyanrafi/Orange-HRM-automation-cypress/assets/33730802/def45991-c3cc-4c8a-976a-e17a3e6c3c5b)
+![Orange-cypress](https://github.com/daiyanrafi/Orange-HRM-automation-cypress/assets/33730802/57e13959-4ba3-45dc-b7d5-51a5957e524c)
 
 ## Overview
 This Cypress test suite automates the testing of the "Apply Leave" feature in the OrangeHRM application. The tests simulate user interactions to ensure that employees can successfully apply for leave.
@@ -38,6 +38,3 @@ To run these Cypress tests locally:
 2. Install Cypress using `npm install cypress`.
 3. Navigate to the project directory and run `npx cypress open`.
 4. Click on the desired test suite to run the tests.
-
-## Test Video
-A video demonstrating the execution of the test suite is available [here](https://github.com/daiyanrafi/Orange-HRM-automation-cypress/assets/33730802/dd27cf41-1a6a-4f76-848b-ea5b620feadf) for download.

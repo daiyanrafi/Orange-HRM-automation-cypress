@@ -35,6 +35,6 @@ This Cypress test suite automates the testing of the "Apply Leave" feature in th
 ## Running the Tests
 To run these Cypress tests locally:
 1. Clone the repository to your local machine.
-2. Install Cypress using `npm install cypress`.
+2. Install npm packages `npm i`.
 3. Navigate to the project directory and run `npx cypress open`.
 4. Click on the desired test suite to run the tests.
